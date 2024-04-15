@@ -71,7 +71,7 @@ IDEA metadata files using:
 
      ./gradlew idea
 
-Then, _open_ the generated *.ipr file in IDEA.
+Then, _open_ the generated `*.ipr` file in IDEA.
 
 ## How to release new version?
 
